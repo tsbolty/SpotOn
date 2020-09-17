@@ -1,6 +1,8 @@
 .nav-row {
+  position: fixed;
   display: inline;
   background: #fffefe52;
+  color: white;
 }
 
 .nav-links{
