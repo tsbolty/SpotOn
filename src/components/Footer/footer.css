@@ -9,6 +9,10 @@ a {
   color: white;
 }
 
+.inside-div {
+  margin: 5% 10%;
+}
+
 .locations {
   margin: 0 auto;
 }
