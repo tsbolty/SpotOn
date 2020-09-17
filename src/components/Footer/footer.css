@@ -1,0 +1,19 @@
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.footer {
+  background-image: url("./footer.jpg");
+  height: 85vh;
+  color: white;
+}
+
+.locations {
+  margin: 0 auto;
+}
+
+#locations-header {
+  margin: 0 auto;
+  font-size: 2em;
+}
