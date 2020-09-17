@@ -1,3 +1,8 @@
+a {
+  color: white;
+  text-decoration: none;
+}
+
 .nav-row {
   position: fixed;
   display: inline;

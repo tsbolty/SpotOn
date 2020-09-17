@@ -7,7 +7,7 @@ const Navbar = ()=>{
       <img src= "https://placeholder.com/wp-content/uploads/2018/10/placeholder.com-logo3.jpg" alt= "logo placeholder" id= "logo-image"></img>
       <div className= "nav-links">
         <h4 className= "nav-link-btn">Home</h4>
-        <h4 className= "nav-link-btn">Services</h4>
+        <h4 className= "nav-link-btn"><a href= "#services">Services</a></h4>
         <h4 className= "nav-link-btn">Products</h4>
         <h4 className= "nav-link-btn">Partners</h4>
         <h4 className= "nav-link-btn">Contact</h4>

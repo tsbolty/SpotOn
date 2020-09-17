@@ -1,0 +1,21 @@
+.services-heading {
+  padding: 3% 0;
+  text-align: center;
+}
+
+.card {
+  border: none;
+}
+
+.card-img-top {
+  margin-top: 15px;
+  border-radius: 7px;
+}
+
+.services-section {
+  margin: 0 5%;
+}
+
+.card-title {
+  text-align: center;
+}
