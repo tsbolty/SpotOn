@@ -11,6 +11,14 @@ const Services = ()=>{
         <div className= "card-body">
           <h4 className= "card-title">Service #1</h4>
           <p className= "card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sit amet arcu ut lacus rutrum sollicitudin sit amet eget eros. Praesent vel libero pharetra, eleifend erat et.</p>
+          <ul>
+            <li>something</li>
+            <li>something</li>
+            <li>something</li>
+            <li>something</li>
+            <li>something</li>
+            <li>something</li>
+          </ul>
         </div>
       </div>
       <div className= "card col-lg-4 col-md-6 col-sm-12">
@@ -18,6 +26,14 @@ const Services = ()=>{
         <div className= "card-body">
           <h4 className= "card-title">Service #2</h4>
           <p className= "card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sit amet arcu ut lacus rutrum sollicitudin sit amet eget eros. Praesent vel libero pharetra, eleifend erat et.</p>
+          <ul>
+            <li>something</li>
+            <li>something</li>
+            <li>something</li>
+            <li>something</li>
+            <li>something</li>
+            <li>something</li>
+          </ul>
         </div>
       </div>
       <div className= "card col-lg-4 col-md-6 col-sm-12">
@@ -25,6 +41,14 @@ const Services = ()=>{
         <div className= "card-body">
           <h4 className= "card-title">Service #3</h4>
           <p className= "card-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sit amet arcu ut lacus rutrum sollicitudin sit amet eget eros. Praesent vel libero pharetra, eleifend erat et.</p>
+          <ul>
+            <li>something</li>
+            <li>something</li>
+            <li>something</li>
+            <li>something</li>
+            <li>something</li>
+            <li>something</li>
+          </ul>
         </div>
       </div>
     </div>
